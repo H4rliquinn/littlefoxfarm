@@ -1,0 +1,14 @@
+@mixin bdr{
+  border:1px solid purple;
+}
+
+@mixin flexrow{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+@mixin center{
+  width:100%;
+  margin: 0px auto;
+}
