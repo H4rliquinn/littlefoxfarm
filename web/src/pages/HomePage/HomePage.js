@@ -1,14 +1,16 @@
 // import { Link, routes } from '@redwoodjs/router'
 import img from '../../img/cac9558f139212d6e1df03aaeaa75a1d230a833a_big.jpg'
+import rider from '../../img/rider.png'
 const HomePage = () => {
   return (
     <>
+      <img src={rider} alt="Farm Overview" width="500px" className="riderImg" />
       <header className="header">
         <img src="#" alt="Logo" />
         <div>LITTLE FOX FARM</div>
       </header>
-      <content>
-        <img src={img} alt="Farm Overview" width="400px" />
+      <main>
+        {/* <img src={img} alt="Farm Overview" width="400px" /> */}
         <description>
           <p>
             Little Fox Farm is a beautiful equestrian estate spanning over 25+
@@ -36,7 +38,7 @@ const HomePage = () => {
           <a href="mailto:skylandmanor@hotmail.com">skylandmanor@hotmail.com</a>
           <p>Cell: 845-559-4899</p>
         </p>
-      </content>
+      </main>
     </>
   )
 }
