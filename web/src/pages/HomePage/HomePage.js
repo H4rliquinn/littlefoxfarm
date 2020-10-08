@@ -8,8 +8,8 @@ const HomePage = () => {
         <h1>LITTLE FOX FARM</h1>
       </header>
       <main>
-        {/* <img src={img} alt="Farm Overview" width="400px" /> */}
-        <div className="wallpaper">
+        <img src={img} alt="Farm Overview" width="400px" />
+        <div className="">
           <p>
             Little Fox Farm is a beautiful equestrian estate spanning over 25+
             acres approx. 1 hr from New York City. The barn has 17 stalls,
