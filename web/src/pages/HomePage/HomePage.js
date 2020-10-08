@@ -1,17 +1,15 @@
 // import { Link, routes } from '@redwoodjs/router'
 import img from '../../img/cac9558f139212d6e1df03aaeaa75a1d230a833a_big.jpg'
-import rider from '../../img/rider.png'
 const HomePage = () => {
   return (
     <>
-      <img src={rider} alt="Farm Overview" width="500px" className="riderImg" />
       <header className="header">
         <img src="#" alt="Logo" />
-        <div>LITTLE FOX FARM</div>
+        <h1>LITTLE FOX FARM</h1>
       </header>
       <main>
         {/* <img src={img} alt="Farm Overview" width="400px" /> */}
-        <description>
+        <div className="wallpaper">
           <p>
             Little Fox Farm is a beautiful equestrian estate spanning over 25+
             acres approx. 1 hr from New York City. The barn has 17 stalls,
@@ -30,7 +28,7 @@ const HomePage = () => {
             Appalachian Trail nearby. 10 minutes from NJ Fairgrounds. Beautiful
             fruit trees adorn the property. A horse lover’s paradise!
           </p>
-        </description>
+        </div>
         <p>We are excited to be accepting new boarders starting in November.</p>
         <p>
           Inquiries can be directed to Kim Rother at:
