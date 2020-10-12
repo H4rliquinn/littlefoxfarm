@@ -1,12 +1,16 @@
 // import { Link, routes } from '@redwoodjs/router'
-import logo from 'src/img/Final 1.png'
+import logo from 'src/img/logo.png'
 
 const HomePage = () => {
   return (
-    <>
+    <div className="body">
       <header className="header">
-        <img src={logo} alt="Logo" />
-        <h1>LITTLE FOX FARM</h1>
+        <div className="logoBox">
+          <img src={logo} alt="Logo" className="logo" />
+        </div>
+        <div className="titleBox">
+          <h1>LITTLE FOX FARM</h1>
+        </div>
       </header>
       <main>
         <p className="infoBox">
@@ -37,7 +41,7 @@ const HomePage = () => {
           <p>Cell: 845-559-4899</p>
         </p>
       </main>
-    </>
+    </div>
   )
 }
 

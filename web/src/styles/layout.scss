@@ -6,7 +6,7 @@ html {
   font-size: 62.5%;
 }
 
-body{
+.body{
   max-width: 800px;
   width: 100%;
   margin:0px auto;
@@ -28,8 +28,17 @@ p {
 }
 
 header{
-  img{
-    width:200px;
+  .logoBox{
+    width:20%;
+  }
+  .logo{
+    background-color:rgba(250, 250, 250,.4);
+    border-radius:20px;
+  }
+  .titleBox{
+    padding-top:20px;
+    text-align:center;
+    width:80%;
   }
   background-image: url("../img/cac9558f139212d6e1df03aaeaa75a1d230a833a_big.jpg");
   background-repeat: no-repeat;
@@ -45,18 +54,11 @@ main{
   background-repeat: repeat-y;
   background-position: center top;
   background-size:800px;
+
   .infoBox{
+    margin:15px 5px;
     background-color:rgba(50,50,50,.1);
     border-radius: 10px;
+    box-shadow: 2px 2px #BBB;
   }
-}
-
-div{
-  height:330px;
-  width:600px;
-  // background-color: blue;
-}
-.wallpaper{
-  // background-image: url("/src/img/rider_30.png");
-  // background-repeat: repeat;
 }
