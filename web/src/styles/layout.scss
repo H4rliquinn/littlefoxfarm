@@ -18,6 +18,10 @@ main{
   background-repeat: repeat-y;
   background-position: center top;
   background-size:800px;
+  .infoBox{
+    background-color:rgba(50,50,50,.1);
+    border-radius: 10px;
+  }
 }
 
 div{
