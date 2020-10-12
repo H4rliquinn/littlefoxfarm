@@ -1,15 +1,14 @@
 // import { Link, routes } from '@redwoodjs/router'
-import img from '../../img/cac9558f139212d6e1df03aaeaa75a1d230a833a_big.jpg'
+import logo from 'src/img/Final 1.png'
+
 const HomePage = () => {
   return (
     <>
       <header className="header">
-        <img src="#" alt="Logo" />
+        <img src={logo} alt="Logo" />
         <h1>LITTLE FOX FARM</h1>
       </header>
       <main>
-        <img src={img} alt="Farm Overview" width="400px" />
-
         <p className="infoBox">
           Little Fox Farm is a beautiful equestrian estate spanning over 25+
           acres approx. 1 hr from New York City. The barn has 17 stalls, indoor
