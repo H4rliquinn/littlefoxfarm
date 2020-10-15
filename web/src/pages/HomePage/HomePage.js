@@ -14,6 +14,16 @@ const HomePage = () => {
         </div>
       </header>
       <main>
+        <div className="testBox">
+          <h1 className="font2">LITTLE FOX FARM</h1>
+          <h1 className="font3">LITTLE FOX FARM</h1>
+          <h1 className="font4">LITTLE FOX FARM</h1>
+          <br />
+          <h2 className="font2">LITTLE FOX FARM</h2>
+          <h2 className="font3">LITTLE FOX FARM</h2>
+          <h2 className="font4">LITTLE FOX FARM</h2>
+        </div>
+
         <div className="infoBox">
           <div>
             <p>
