@@ -38,6 +38,8 @@ h1{
 
 p {
   font-size: 1.6rem;
+  line-height: 2rem;
+  padding:5px 0px;
   font-family: 'Crete Round', serif;
 }
 
@@ -58,7 +60,7 @@ header{
   height:283px;
 
   .logoBox{
-    margin:20px 0px 0px 20px;
+    margin:15px 0px 0px 15px;
     padding:10px;
     width:170px;
     height:170px;
@@ -84,17 +86,20 @@ main{
   background-size:800px;
 
   .infoBox{
+    width:100%;
     display:flex;
     flex-direction: row;
-    margin:15px 0px;
-    padding:5px 15px;
+    justify-content: space-between;
+    margin:20px 0px;
+    padding:15px;
     background-color:rgba(50,50,50,.1);
     border-radius: 10px;
     box-shadow: 3px 3px #BBB;
     div p{
-      margin:10px 0px;
+      margin:0px 5px;
     }
     img{
+      margin:0px 5px;
       border-radius: 5px;
     }
   }

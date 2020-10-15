@@ -52,10 +52,11 @@ const HomePage = () => {
             <p>
               Inquiries can be directed to:
               <br />
+              <br />
               Kim Rother, Barn Manager
               <ul>
                 <li>
-                  Email:{' '}
+                  Email:
                   <a href="mailto:skylandmanor@hotmail.com">
                     skylandmanor@hotmail.com
                   </a>
