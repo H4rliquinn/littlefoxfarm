@@ -8,7 +8,9 @@ const HomePage = () => {
           <img src={require('src/img/logo.png')} alt="Logo" className="logo" />
         </div>
         <div className="titleBox">
-          <h1>LITTLE FOX FARM</h1>
+          <h1 className="font2">LITTLE FOX FARM</h1>
+          <h1 className="font3">LITTLE FOX FARM</h1>
+          <h1 className="font4">LITTLE FOX FARM</h1>
         </div>
       </header>
       <main>
