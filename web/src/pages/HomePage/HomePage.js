@@ -22,12 +22,9 @@ const HomePage = () => {
             <h1>Welcome to Little Fox Farm</h1>
             <p>
               We are a beautiful equestrian facility spanning over 25+ acres
-              approximately one hour from New York City. The barn has 17 stalls,
-              indoor and outdoor rings. 5 paddocks w/4 board fence and electric.
-            </p>
-            <p>
-              The indoor ring 72&apos;x160&apos; indoor ring w/viewing room,
-              heated tack room, hot and cold wash stall, bathroom and laundry.
+              approximately one hour from New York City. Our horses are kept in
+              5 paddocks with 4 board fence lined with a hot wire. The barn has
+              17 box stalls, with excellent ventilation.
             </p>
           </div>
           <img src={require('src/img/aisle.jpg')} alt="aisle" />
@@ -35,6 +32,10 @@ const HomePage = () => {
         <div className="infoBox">
           <img src={require('src/img/indoor.jpg')} alt="indoor" />
           <div>
+            <p>
+              The indoor ring 72&apos;x160&apos; indoor ring w/viewing room,
+              heated tack room, hot and cold wash stall, bathroom and laundry.
+            </p>
             <p>
               Outdoor ring measures approx. 100&apos;x200&apos; w/sand footing,
               2 gates and automatic sprinkler.
@@ -56,7 +57,7 @@ const HomePage = () => {
               Kim Rother, Barn Manager
               <ul>
                 <li>
-                  Email:
+                  Email:&nbsp;
                   <a href="mailto:skylandmanor@hotmail.com">
                     skylandmanor@hotmail.com
                   </a>
