@@ -7,18 +7,10 @@ const HomePage = () => {
         <div className="logoBox">
           <img src={require('src/img/logo.png')} alt="Logo" className="logo" />
         </div>
-        <div className="titleBox">
-          <h1 className="font2">LITTLE FOX FARM</h1>
-          <h1 className="font3">LITTLE FOX FARM</h1>
-          <h1 className="font4">LITTLE FOX FARM</h1>
-        </div>
+        <div className="titleBox"></div>
       </header>
       <main>
         <div className="testBox">
-          <h1 className="font2">LITTLE FOX FARM</h1>
-          <h1 className="font3">LITTLE FOX FARM</h1>
-          <h1 className="font4">LITTLE FOX FARM</h1>
-          <br />
           <h2 className="font2">LITTLE FOX FARM</h2>
           <h2 className="font3">LITTLE FOX FARM</h2>
           <h2 className="font4">LITTLE FOX FARM</h2>
