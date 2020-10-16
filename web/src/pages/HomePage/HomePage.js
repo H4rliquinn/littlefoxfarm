@@ -10,14 +10,9 @@ const HomePage = () => {
         <div className="titleBox"></div>
       </header>
       <main>
-        <div className="testBox">
-          <h2 className="font2">LITTLE FOX FARM</h2>
-          <h2 className="font3">LITTLE FOX FARM</h2>
-          <h2 className="font4">LITTLE FOX FARM</h2>
-        </div>
-
         <div className="infoBox">
           <div>
+            <h1>Welcome to little Fox Farm</h1>
             <p>
               Little Fox Farm is a beautiful equestrian estate spanning over 25+
               acres approx. 1 hr from New York City. The barn has 17 stalls,
