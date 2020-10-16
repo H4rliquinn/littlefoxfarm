@@ -10,18 +10,24 @@ const HomePage = () => {
         <div className="titleBox"></div>
       </header>
       <main>
+        <div className="alertBox">
+          <h2>
+            We are excited to announce our grand opening and will be accepting
+            board applications starting in November. Contact the{' '}
+            <a href="#manager">Barn Manager</a> for more details.
+          </h2>
+        </div>
         <div className="infoBox">
           <div>
-            <h1>Welcome to little Fox Farm</h1>
+            <h1>Welcome to Little Fox Farm</h1>
             <p>
-              Little Fox Farm is a beautiful equestrian estate spanning over 25+
-              acres approx. 1 hr from New York City. The barn has 17 stalls,
-              indoor and outdoor rings. 4 paddocks w/4 board fence with
-              electric.
+              We are a beautiful equestrian facility spanning over 25+ acres
+              approximately one hour from New York City. The barn has 17 stalls,
+              indoor and outdoor rings. 5 paddocks w/4 board fence and electric.
             </p>
             <p>
-              72&apos;x160&apos; indoor ring w/viewing room, heated tack room,
-              hot or cold wash down, bath room and laundry.
+              The indoor ring 72&apos;x160&apos; indoor ring w/viewing room,
+              heated tack room, hot and cold wash stall, bathroom and laundry.
             </p>
           </div>
           <img src={require('src/img/aisle.jpg')} alt="aisle" />
@@ -42,12 +48,9 @@ const HomePage = () => {
           </div>
         </div>
         <div className="infoBox">
-          <div>
+          <div id="manager">
             <p>
-              We are excited to be accepting new boarders starting in November.
-            </p>
-            <p>
-              Inquiries can be directed to:
+              All board, lesson and training inquiries can be directed to:
               <br />
               <br />
               Kim Rother, Barn Manager
