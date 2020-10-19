@@ -37,10 +37,12 @@ const HomePage = () => {
               heated tack room, hot and cold wash stall, bathroom and laundry.
             </p>
             <p>
+            <!--Update-->
               Outdoor ring measures approx. 100&apos;x200&apos; w/sand footing,
               2 gates and automatic sprinkler.
             </p>
             <p>
+              <!--Update-->
               WiFi and smoke detectors in barns. Spectacular farmland with the
               Appalachian Trail nearby. 10 minutes from NJ Fairgrounds.
               Beautiful fruit trees adorn the property. A horse lover’s
