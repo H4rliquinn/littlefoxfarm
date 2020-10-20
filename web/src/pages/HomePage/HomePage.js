@@ -21,10 +21,17 @@ const HomePage = () => {
           <div>
             <h1>Welcome to Little Fox Farm</h1>
             <p>
-              We are a beautiful equestrian facility spanning over 25+ acres
+              LFF is a beautiful equestrian facility spanning over 25+ acres
               approximately one hour from New York City. Our horses are kept in
               5 paddocks with 4 board fence lined with a hot wire. The barn has
-              17 box stalls, with excellent ventilation.
+              17 box stalls with excellent ventilation.
+            </p>
+
+            <p>
+              The main barn area also includes a heated tack room, hot and cold
+              water wash stall, bathroom, and laundry facilities. Smoke
+              detectors are located throughout the barn area. We also offer free
+              WiFi
             </p>
           </div>
           <img src={require('src/img/aisle.jpg')} alt="aisle" />
@@ -33,20 +40,13 @@ const HomePage = () => {
           <img src={require('src/img/indoor.jpg')} alt="indoor" />
           <div>
             <p>
-              The indoor ring 72&apos;x160&apos; indoor ring w/viewing room,
-              heated tack room, hot and cold wash stall, bathroom and laundry.
+              Our indoor ring is 72&apos;x160&apos; with a viewing room at one
+              end. Our Outdoor ring measures approx. 100&apos;x200&apos; w/sand
+              footing, 2 gates and automatic sprinkler system.
             </p>
             <p>
-            <!--Update-->
-              Outdoor ring measures approx. 100&apos;x200&apos; w/sand footing,
-              2 gates and automatic sprinkler.
-            </p>
-            <p>
-              <!--Update-->
-              WiFi and smoke detectors in barns. Spectacular farmland with the
-              Appalachian Trail nearby. 10 minutes from NJ Fairgrounds.
-              Beautiful fruit trees adorn the property. A horse lover’s
-              paradise!
+              We are conveniently located to the Appalachian Trail, and ten
+              minutes from the NJ Fairgrounds.
             </p>
           </div>
         </div>
