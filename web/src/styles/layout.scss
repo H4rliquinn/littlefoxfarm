@@ -132,12 +132,15 @@ main{
     }
 
     .imageBox{
+      // border:1px solid blue;
       width:45%;
       margin:0px 5px;
       display:flex;
+      justify-content: flex-end;
       align-items: center;
       img{
         border-radius: 5px;
+        max-height:166px;
       }
     }
 
