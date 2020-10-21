@@ -21,10 +21,10 @@ const HomePage = () => {
           <div>
             <h1>Welcome to Little Fox Farm</h1>
             <p>
-              LFF is a beautiful equestrian facility spanning over 25+ acres
-              approximately one hour from New York City. Our horses are kept in
-              5 paddocks with 4 board fence lined with a hot wire. The barn has
-              17 box stalls with excellent ventilation.
+              Little Fox Farm is a beautiful equestrian facility spanning over
+              25+ acres approximately one hour from New York City. Our horses
+              are kept in 5 paddocks with 4 board fence lined with a hot wire.
+              The barn has 17 box stalls with excellent ventilation.
             </p>
 
             <p>
