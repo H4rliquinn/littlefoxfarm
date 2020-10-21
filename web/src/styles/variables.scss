@@ -8,4 +8,5 @@ $box-color:rgba(193, 182, 188,.3);
 // rgba(65,104,53,.1)
 $box-shadow-color: 1px 2px 3px #416835;
 
-@mobile:~"(max-width:500px)";
+$breakpoint-logo:650px;
+$breakpoint: 575px;
