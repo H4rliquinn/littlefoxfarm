@@ -34,10 +34,14 @@ const HomePage = () => {
               WiFi
             </p>
           </div>
-          <img src={require('src/img/aisle.jpg')} alt="aisle" />
+          <div className="imageBox">
+            <img src={require('src/img/aisle.jpg')} alt="aisle" />
+          </div>
         </div>
         <div className="infoBox">
-          <img src={require('src/img/indoor.jpg')} alt="indoor" />
+          <div className="imageBox">
+            <img src={require('src/img/indoor.jpg')} alt="indoor" />
+          </div>
           <div>
             <p>
               Our indoor ring is 72&apos;x160&apos; with a viewing room at one
@@ -68,7 +72,9 @@ const HomePage = () => {
               </ul>
             </p>
           </div>
-          <img src={require('src/img/outdoor.jpg')} alt="outdoor" />
+          <div className="imageBox">
+            <img src={require('src/img/outdoor.jpg')} alt="outdoor" />
+          </div>
         </div>
       </main>
     </div>

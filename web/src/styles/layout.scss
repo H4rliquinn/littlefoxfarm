@@ -130,16 +130,29 @@ main{
     div p{
       margin:0px 5px;
     }
-    img{
+
+    .imageBox{
+      width:45%;
       margin:0px 5px;
-      border-radius: 5px;
+      display:flex;
+      align-items: center;
+      img{
+        border-radius: 5px;
+      }
     }
+
     @media (max-width:500px){
       flex-direction:column;
-      img{
+      .imageBox{
+        // background-color: black;
         width:100%;
-        margin:0px auto;
         order:+1;
+        display:flex;
+        justify-content: center;
+        img{
+          // margin:0px auto;
+          width:250px;
+        }
       }
     }
   }
