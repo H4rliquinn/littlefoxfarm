@@ -1,4 +1,5 @@
 // import { Link, routes } from '@redwoodjs/router'
+import { gsap } from 'gsap'
 
 const HomePage = () => {
   return (
