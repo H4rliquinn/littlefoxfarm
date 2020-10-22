@@ -1,7 +1,12 @@
 // import { Link, routes } from '@redwoodjs/router'
 import { gsap } from 'gsap'
+import { useEffect } from 'react'
 
 const HomePage = () => {
+  useEffect(() => {
+    gsap.from('.logoBox', { duration: 1.5, opacity: 0, x: 400 })
+  }, [])
+
   return (
     <div className="body">
       <header className="header">
