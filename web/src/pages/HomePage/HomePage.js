@@ -15,7 +15,7 @@ const HomePage = () => {
     //   delay: 2.5,
     // })
     gsap.from('.infoBox', { duration: 2.5, y: -150 })
-    gsap.from('.alertBox', { opacity: 0, duration: 0.5, delay: 2.5 })
+    gsap.from('.alertBox', { opacity: 0, duration: 1.5, delay: 2.8 })
   }, [])
 
   return (
