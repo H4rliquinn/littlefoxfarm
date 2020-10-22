@@ -4,7 +4,18 @@ import { useEffect } from 'react'
 
 const HomePage = () => {
   useEffect(() => {
-    gsap.from('.logoBox', { duration: 1.5, opacity: 0, x: 400 })
+    gsap.from('.logoBox', { duration: 2.5, opacity: 0, x: 600 })
+    // gsap.to('.logoBox', { duration: 1, x: 300 })
+    gsap.to('.logoBox', {
+      keyframes: [
+        { x: '-=3', duration: 0.03 },
+        { x: '+=3', duration: 0.03 },
+      ],
+      repeat: 4,
+      delay: 2.5,
+    })
+    // gsap.to('.logoBox', 0.1, { x: 20 });
+    // gsap.to('.logoBox', 0.1, { x: '-=20', yoyo: true, repeat: 5 })
   }, [])
 
   return (
