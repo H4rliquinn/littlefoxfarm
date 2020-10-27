@@ -4,7 +4,7 @@ import { useEffect } from 'react'
 
 const HomePage = () => {
   useEffect(() => {
-    gsap.from('.logoBox', { duration: 2.5, opacity: 0, x: 600 })
+    gsap.from('.logoBox', { duration: 2.5, opacity: 0, x: 700 })
     // gsap.to('.logoBox', { duration: 1, x: 300 })
     // gsap.to('.logoBox', {
     //   keyframes: [
