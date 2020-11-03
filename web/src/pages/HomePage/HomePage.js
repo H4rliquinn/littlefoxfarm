@@ -30,7 +30,7 @@ const HomePage = () => {
         <div className="alertBox">
           <h2>
             We are excited to announce our grand opening and will be accepting
-            board applications starting in November. Contact the{' '}
+            board applications starting in November. Contact the
             <a href="#manager">Barn Manager</a> for more details.
           </h2>
         </div>
@@ -40,8 +40,8 @@ const HomePage = () => {
             <p>
               Little Fox Farm is a beautiful equestrian facility spanning over
               25+ acres approximately one hour from New York City. Our horses
-              are kept in 5 paddocks with 4 board fence lined with a hot wire.
-              The barn has 17 box stalls with excellent ventilation.
+              are kept in 5 paddocks with 4 board fence. The barn has 17 box
+              stalls with excellent ventilation.
             </p>
 
             <p>
@@ -66,8 +66,9 @@ const HomePage = () => {
               footing, 2 gates and automatic sprinkler system.
             </p>
             <p>
-              We are conveniently located to the Appalachian Trail, and ten
-              minutes from the NJ Fairgrounds.
+              We are conveniently located to the Appalachian Trail, Sussex
+              Branch and Paulinskill rail trails, and ten minutes from the
+              Sussex County Fairgrounds, home of the NJ State Fair
             </p>
           </div>
         </div>
