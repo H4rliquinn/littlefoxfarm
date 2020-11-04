@@ -30,7 +30,7 @@ const HomePage = () => {
         <div className="alertBox">
           <h2>
             We are excited to announce our grand opening and will be accepting
-            board applications starting in November. Contact the
+            board applications starting in December. Contact the
             <a href="#manager">Barn Manager</a> for more details.
           </h2>
         </div>
