@@ -47,8 +47,7 @@ const HomePage = () => {
             <p>
               The main barn area also includes a heated tack room, hot and cold
               water wash stall, bathroom, and laundry facilities. Smoke
-              detectors are located throughout the barn area. We also offer free
-              WiFi
+              detectors are located throughout the barn area.
             </p>
           </div>
           <div className="imageBox">
