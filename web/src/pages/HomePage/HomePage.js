@@ -65,9 +65,9 @@ const HomePage = () => {
               footing, 2 gates and automatic sprinkler system.
             </p>
             <p>
-              We are conveniently located to the Appalachian Trail, Sussex
+              We are conveniently located close to the Appalachian Trail, Sussex
               Branch and Paulinskill rail trails, and ten minutes from the
-              Sussex County Fairgrounds, home of the NJ State Fair
+              Sussex County Fairgrounds, home of the NJ State Fair.
             </p>
           </div>
         </div>
