@@ -1,6 +1,7 @@
 {
   "name": "web",
-  "version": "0.0.0",
+  "homepage":"https://littlefoxfarmllc.com",
+  "version": "0.1.0",
   "private": true,
   "browserslist": {
     "development": [
