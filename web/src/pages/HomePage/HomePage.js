@@ -30,24 +30,30 @@ const HomePage = () => {
         <div className="alertBox">
           <h2>
             We are excited to announce our grand opening and will be accepting
-            board applications starting in December. Contact the
-            <a href="#manager">Barn Manager</a> for more details.
+            boarding applications starting in December.
+            <br />
+            <br />
+            Contact the
+            <a href="#manager"> Barn Manager</a> for more details.
           </h2>
         </div>
         <div className="infoBox">
           <div>
             <h1>Welcome to Little Fox Farm</h1>
             <p>
-              Little Fox Farm is a beautiful equestrian facility spanning over
-              25+ acres approximately one hour from New York City. Our horses
-              are kept in 5 paddocks with 4 board fence. The barn has 17 box
-              stalls with excellent ventilation.
+              Little Fox Farm is a small, exlusive equestrian facility spanning
+              over 25 acres approximately one hour from New York City. Our
+              horses are turned out in 6 paddocks with 4 board fencing. We are
+              looking to build into a small but vibrant equestian community in
+              the heart of Sussex County. The barn has 17 box box stalls with
+              excellent ventilation.
             </p>
 
             <p>
-              The main barn area also includes a heated tack room, hot and cold
-              water wash stall, bathroom, and laundry facilities. Smoke
-              detectors are located throughout the barn area.
+              The main barn area also includes a heated tack room, bathroom, and
+              laundry facilities. Accessible hot and cold water wash stall.
+              Smoke detectors are located throughout the barn area and the full
+              property is a no-smoking area for safety.
             </p>
           </div>
           <div className="imageBox">
@@ -60,21 +66,23 @@ const HomePage = () => {
           </div>
           <div>
             <p>
-              Our indoor ring is 72&apos;x160&apos; with a viewing room at one
-              end. Our Outdoor ring measures approx. 100&apos;x200&apos; w/sand
+              Our indoor ring is 72&apos;x160&apos; with a viewing lounge at one
+              end. Our outdoor ring measures approx. 100&apos;x200&apos; w/sand
               footing, 2 gates and automatic sprinkler system.
             </p>
             <p>
               We are conveniently located close to the Appalachian Trail, Sussex
               Branch and Paulinskill rail trails, and ten minutes from the
-              Sussex County Fairgrounds, home of the NJ State Fair.
+              Sussex County Fairgrounds, home of the Sussex County Farm and
+              Horse Show.
             </p>
           </div>
         </div>
         <div className="infoBox">
           <div id="manager">
             <p>
-              All board, lesson and training inquiries can be directed to:
+              Owners reside on site. All board, lesson and training inquiries
+              can be directed to:
               <br />
               <br />
               Kim Rother, Barn Manager
