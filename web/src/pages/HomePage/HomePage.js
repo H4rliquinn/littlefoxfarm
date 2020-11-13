@@ -41,19 +41,21 @@ const HomePage = () => {
           <div>
             <h1>Welcome to Little Fox Farm</h1>
             <p>
-              Little Fox Farm is a small, exlusive equestrian facility spanning
-              over 25 acres approximately one hour from New York City. Our
-              horses are turned out in 6 paddocks with 4 board fencing. We are
-              looking to build into a small but vibrant equestian community in
-              the heart of Sussex County. The barn has 17 box box stalls with
-              excellent ventilation.
+              Little Fox Farm is a beautiful equestrian facility spanning over
+              25 acres approximately one hour from New York City. We are a
+              small, intimate equestrian community in the heart of Sussex
+              County. Our horses are turned out in 6 paddocks with 4 board
+              fencing.The barn has 17 box stalls with excellent ventilation.
             </p>
-
+            <p>
+              The owners reside on the property. Horses are fed at morning
+              turnout as well as when they are brought in with extra hay thrown
+              late evening during night check.
+            </p>
             <p>
               The main barn area also includes a heated tack room, bathroom, and
               laundry facilities. Accessible hot and cold water wash stall.
-              Smoke detectors are located throughout the barn and the full
-              property is a no-smoking area for safety.
+              Smoke detectors are located throughout the barn for safety.
             </p>
           </div>
           <div className="imageBox">
