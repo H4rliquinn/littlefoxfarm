@@ -52,7 +52,7 @@ const HomePage = () => {
             <p>
               The main barn area also includes a heated tack room, bathroom, and
               laundry facilities. Accessible hot and cold water wash stall.
-              Smoke detectors are located throughout the barn area and the full
+              Smoke detectors are located throughout the barn and the full
               property is a no-smoking area for safety.
             </p>
           </div>
@@ -66,9 +66,9 @@ const HomePage = () => {
           </div>
           <div>
             <p>
-              Our indoor ring is 72&apos;x160&apos; with a viewing lounge at one
-              end. Our outdoor ring measures approx. 100&apos;x200&apos; w/sand
-              footing, 2 gates and automatic sprinkler system.
+              Our indoor ring is 72&apos; x 160&apos; with a viewing lounge at
+              one end. Our outdoor ring measures approx. 100&apos; x 200&apos;
+              w/sand footing, 2 gates and automatic sprinkler system.
             </p>
             <p>
               We are conveniently located close to the Appalachian Trail, Sussex
