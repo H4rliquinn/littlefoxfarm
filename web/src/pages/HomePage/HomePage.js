@@ -50,7 +50,7 @@ const HomePage = () => {
             <p>
               The owners reside on the property. Horses are fed at morning
               turnout as well as when they are brought in with extra hay thrown
-              late evening during night check.
+              late evening during night check as needed.
             </p>
             <p>
               The main barn area also includes a heated tack room, bathroom, and
