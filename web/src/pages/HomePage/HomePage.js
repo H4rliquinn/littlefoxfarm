@@ -45,7 +45,8 @@ const HomePage = () => {
               25 acres approximately one hour from New York City. We are a
               small, intimate equestrian community in the heart of Sussex
               County. Our horses are turned out in 6 paddocks with 4 board
-              fencing.The barn has 17 box stalls with excellent ventilation.
+              fencing.The barn has 17 12&apos; x 10&apos; box stalls with
+              excellent ventilation.
             </p>
             <p>
               The owners reside on the property. Horses are fed at morning
