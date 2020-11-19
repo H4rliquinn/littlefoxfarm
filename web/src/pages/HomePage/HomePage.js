@@ -92,8 +92,8 @@ const HomePage = () => {
               <ul>
                 <li>
                   Email:&nbsp;
-                  <a href="mailto:skylandmanor@hotmail.com">
-                    skylandmanor@hotmail.com
+                  <a href="mailto:kim@littlefoxfarmllc.com">
+                    kim@littlefoxfarmllc.com
                   </a>
                 </li>
                 <li>Cell: 845-559-4899</li>
