@@ -29,8 +29,8 @@ const HomePage = () => {
       <main>
         <div className="alertBox">
           <h2>
-            We are excited to announce our grand opening and will be accepting
-            boarding applications starting in December.
+            Little Fox Farm We are excited to announce our grand opening and
+            will be accepting boarding applications starting in December.
             <br />
             <br />
             Contact the
