@@ -42,21 +42,21 @@ const HomePage = () => {
             <h1>Welcome to Little Fox Farm</h1>
             <p>
               Little Fox Farm is a beautiful equestrian facility spanning over
-              25 acres approximately one hour from New York City. We are a
-              small, intimate equestrian community in the heart of Sussex
+              25 acres located approximately one hour from New York City. We are
+              a small, private equestrian community in the heart of Sussex
               County. Our horses are turned out in 6 paddocks with 4 board
               fencing. The barn has 17 12&apos; x 10&apos; box stalls with
               excellent ventilation.
             </p>
             <p>
-              The owners reside on the property. Horses are fed at morning
-              turnout as well as when they are brought in with extra hay thrown
-              late evening during night check as needed.
+              Horses are fed at morning turnout as well as when they are brought
+              in with extra hay thrown late evening during night check as
+              needed.
             </p>
             <p>
-              The main barn area also includes a heated tack room, bathroom, and
-              laundry facilities. Accessible hot and cold water wash stall.
-              Smoke detectors are located throughout the barn for safety.
+              The main barn area includes a hot and cold water wash stall.
+              Heated tack room, bathroom, and laundry facilities. Smoke
+              detectors are located throughout the barn for safety.
             </p>
           </div>
           <div className="imageBox">
@@ -69,23 +69,23 @@ const HomePage = () => {
           </div>
           <div>
             <p>
-              Our indoor ring is 72&apos; x 160&apos; with a viewing lounge at
-              one end. Our outdoor ring measures approx. 100&apos; x 200&apos;
-              w/sand footing, 2 gates and automatic sprinkler system.
+              Our indoor ring measures 72&apos; x 160&apos; with a viewing
+              lounge at one end. Our outdoor ring measures approx. 100&apos; x
+              200&apos; with sand footing, 2 gates and an automatic sprinkler
+              system.
             </p>
             <p>
-              We are conveniently located close to the Appalachian Trail, Sussex
-              Branch and Paulinskill rail trails, and ten minutes from the
-              Sussex County Fairgrounds, home of the Sussex County Farm and
-              Horse Show.
+              We are conveniently located close to the Sussex Branch and
+              Paulinskill rail trails, and onl ten minutes from the Sussex
+              County Fairgrounds, home of the Sussex County Farm and Horse Show.
             </p>
           </div>
         </div>
         <div className="infoBox">
           <div id="manager">
             <p>
-              Owners reside on site. All board, lesson and training inquiries
-              can be directed to:
+              Owners reside on site. All board, lesson, and training inquiries
+              should be directed to:
               <br />
               <br />
               Kim Rother, Barn Manager
