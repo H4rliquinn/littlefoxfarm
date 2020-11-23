@@ -76,7 +76,7 @@ const HomePage = () => {
             </p>
             <p>
               We are conveniently located close to the Sussex Branch and
-              Paulinskill rail trails, and onl ten minutes from the Sussex
+              Paulinskill rail trails, and only ten minutes from the Sussex
               County Fairgrounds, home of the Sussex County Farm and Horse Show.
             </p>
           </div>
