@@ -29,10 +29,9 @@ const HomePage = () => {
       <main>
         <div className="alertBox">
           <h2>
-            Little Fox Farm We are excited to announce our grand opening and
-            will be accepting boarding applications starting in December.
-            <br />
-            <br />
+            Happy New Year everyone! This year we are featuring Sheryl Wilkins
+            to offer her training services at Little Fox Farm. Welcome, to all
+            the new faces trailoring in. Limited stalls are still available.
             Contact the
             <a href="#manager"> Barn Manager</a> for more details.
           </h2>
