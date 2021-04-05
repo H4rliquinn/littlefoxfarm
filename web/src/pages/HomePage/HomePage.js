@@ -29,10 +29,8 @@ const HomePage = () => {
       <main>
         <div className="alertBox">
           <h2>
-            Happy New Year everyone! This year we are featuring Sheryl Wilkins
-            to offer her training services at Little Fox Farm. Welcome, to all
-            the new faces trailoring in. Limited stalls are still available.
-            Contact the
+            Happy Spring everyone! Little Fox Farm is currently accepting
+            boarding applications. Please contact the
             <a href="#manager"> Barn Manager</a> for more details.
           </h2>
         </div>
@@ -40,12 +38,11 @@ const HomePage = () => {
           <div>
             <h1>Welcome to Little Fox Farm</h1>
             <p>
-              Little Fox Farm is a beautiful equestrian facility spanning over
-              25 acres located approximately one hour from New York City. We are
-              a small, private equestrian community in the heart of Sussex
-              County. Our horses are turned out in 6 paddocks with 4 board
-              fencing. The barn has 17 12&apos; x 10&apos; box stalls with
-              excellent ventilation.
+              Little Fox Farm is a beautiful equestrian facility spanning 25
+              acres approximately one hour from New York City. We are a small,
+              private equestrian community in the heart of Sussex County. Our
+              horses are turned out in 6 paddocks with 4 board fencing. The barn
+              has 17 12&apos; x 10&apos; box stalls with excellent ventilation.
             </p>
             <p>
               Horses are fed at morning turnout as well as when they are brought
