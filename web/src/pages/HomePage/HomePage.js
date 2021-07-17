@@ -29,8 +29,10 @@ const HomePage = () => {
       <main>
         <div className="alertBox">
           <h2>
-            Happy Spring everyone! Little Fox Farm is currently accepting
-            boarding applications. Please contact the
+            Happy Summer everyone! Little Fox Farm is happy to welcome our two
+            newest boarders, Pixie and Stanley to the Little Fox family. We are
+            still accepting boarding applications for our remaining stalls.
+            Please contact the
             <a href="#manager"> Barn Manager</a> for more details.
           </h2>
         </div>
